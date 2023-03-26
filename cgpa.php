@@ -1,4 +1,8 @@
-# Raghav Verma Student of BE CSE
+
+# Raghav Verma
+=======
+# Raghav Verma Roll No. 2124
+>>>>>>> copy
 <?php
 
 			$servername = "localhost";
